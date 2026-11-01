@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 110" role="img" aria-labelledby="title desc">
+  <title id="title">Σκεπές και Οικοδομή · Αγιά Λάρισας</title>
+  <desc id="desc">Συμπαγής εκδοχή του τυπογραφικού λογότυπου για μικρές οθόνες.</desc>
+  <path d="M5 17h46L69 5l18 12h168" fill="none" stroke="#806344" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="5" y="52" fill="#293e2d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="-1.8">ΣΚΕΠΕΣ</text>
+  <text x="5" y="78" fill="#293e2d" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" letter-spacing="-1.4">&amp; ΟΙΚΟΔΟΜΗ</text>
+  <text x="7" y="101" fill="#655c50" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ΑΓΙΑ ΛΑΡΙΣΑΣ</text>
+</svg>

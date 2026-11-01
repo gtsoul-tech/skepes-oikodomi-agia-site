@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Σκεπές και Οικοδομή">
+  <rect width="64" height="64" rx="10" fill="#f7f6f1"/>
+  <path d="M9 30 32 11l23 19" fill="none" stroke="#806344" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M17 31v23h30V31" fill="none" stroke="#293e2d" stroke-width="5" stroke-linecap="square"/>
+  <path d="M17 43h30M32 43v11" fill="none" stroke="#293e2d" stroke-width="4"/>
+</svg>
